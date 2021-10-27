@@ -1,2 +1,2 @@
 # drfapi
-In this we are makiking api
+In this we are makeking api
